@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 5,
+  "icon": "info",
+  "desing": {
+    "header": [],
+    "body": [
+      "mk044l",
+      "qdlnph"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Yol Arkadaşı Rent a Car, kiralama ve iptal koşullarını rezervasyondan önce açıkça anlatan kurgusal bir demo firmadır. Bu sitedeki araçlar, fiyatlar ve adresler kurgusaldır.",
+    "en": "Yol Arkadasi Rent a Car is a fictional demo company that explains rental and cancellation terms clearly before booking. Vehicles, prices and addresses on this site are fictional.",
+    "ar": "يول أركداشي لتأجير السيارات شركة تجريبية افتراضية تشرح شروط التأجير والإلغاء بوضوح قبل الحجز. المركبات والأسعار والعناوين في هذا الموقع افتراضية."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "text": {},
+  "update": "2026-10-30T22:13:10.678Z",
+  "date": "2026-10-30"
+}

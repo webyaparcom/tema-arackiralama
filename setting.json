@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Yol Arkadaşı Rent a Car: günlük ve uzun dönem araç kiralama, havalimanı teslim ve açık kiralama koşulları. (Demo site)",
+    "en": "Yol Arkadasi Rent a Car: daily and long-term car rental, airport pick-up and clear rental terms. (Demo site)",
+    "ar": "يول أركداشي لتأجير السيارات: تأجير يومي وطويل الأمد واستلام من المطار وشروط تأجير واضحة. (موقع تجريبي)"
+  },
+  "keyword": {
+    "tr": "araç kiralama, rent a car, filo",
+    "en": "car rental, rent a car, fleet",
+    "ar": "تأجير سيارات، فلو"
+  },
+  "category": "Kurumsal",
+  "name": "Yol Arkadaşı Rent a Car",
+  "domain": "arackiralama.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "nunito-sans",
+    "heading": "poppins",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#1450A3",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "8px",
+    "--mx-radius-md": "14px",
+    "--mx-radius-lg": "20px",
+    "--mx-radius-xl": "27px"
+  },
+  "icon": "icon.png"
+}
