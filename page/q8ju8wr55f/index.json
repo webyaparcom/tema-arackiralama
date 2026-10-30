@@ -1,0 +1,39 @@
+{
+  "id": "q8ju8wr55f",
+  "name": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "description": {
+    "tr": "Filo, teslim noktası ve ofisten görüntüler.",
+    "en": "Views of the fleet, the pick-up point and the office.",
+    "ar": "صور من الأسطول ونقطة الاستلام والمكتب."
+  },
+  "keyword": {
+    "tr": "galeri, fotoğraf",
+    "en": "gallery, photos",
+    "ar": "معرض، صور"
+  },
+  "path": "galeri",
+  "icon": "photo_library",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "c43n1u"
+    ],
+    "footer": []
+  },
+  "index": 4,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "date": "2026-10-30T22:13:10.666Z",
+  "update": "2026-10-30T22:13:10.670Z"
+}
